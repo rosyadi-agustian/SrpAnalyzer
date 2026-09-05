@@ -1,0 +1,6 @@
+{
+  "name": "Sucker Rod Pump Designer - Deviated Well & Buckling Analyzer",
+  "description": "API RP 11L and Lufkin/Gibbs deviated well diagnostic simulator with Minimum Curvature Method (MCM) trajectory, normal contact force drag modeling, and Paslay-Bogy sucker rod buckling analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
